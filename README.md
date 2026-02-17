@@ -12,7 +12,7 @@ This repository serves as a storage space for full-length images of my Figma des
 
 1. Browse the repository to view my latest Figma designs.
 2. Click on any image to see the full resolution.
-3. Download images if needed for portfolio or reference purposes.
+3. Download images if needed for reference purposes.
 
 ## Connect with Me
 
